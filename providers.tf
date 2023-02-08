@@ -14,7 +14,7 @@ provider "google" {
   project = "elastic-trino"
   region  = "us-west1"
   zone    = "us-west1-a"
-  credentials = "../keys.json"
+  //credentials = "../keys.json"
 
 }
 
